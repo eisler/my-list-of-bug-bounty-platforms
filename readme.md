@@ -6,7 +6,6 @@
 ## Contents
 
 - [Bug Bounty Platforms](#section)
-- [Another Section](#another-section)
 
 
 ## Bug Bounty Platforms
@@ -15,14 +14,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [HackerOne](https://www.hackerone.com)
 - [Bugcrowd](https://www.bugcrowd.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 
 ## Contribute
