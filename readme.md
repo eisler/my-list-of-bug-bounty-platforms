@@ -14,7 +14,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [HackerOne](https://www.hackerone.com)
 - [Bugcrowd](https://www.bugcrowd.com)
-
+- [OpenBugBounty](https://www.openbugbounty.org)
 
 ## Contribute
 
