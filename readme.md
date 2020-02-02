@@ -6,15 +6,22 @@
 ## Contents
 
 - [Bug Bounty Platforms](#section)
+- [Individual Bug Bounty programs](#section)
 
 
 ## Bug Bounty Platforms
 
-About this section. Optional. Keep this short and focus on the list.
+Bug Bounty and crowdsourced security platforms.
 
 - [HackerOne](https://www.hackerone.com)
 - [Bugcrowd](https://www.bugcrowd.com)
 - [OpenBugBounty](https://www.openbugbounty.org)
+
+## Individual Bug Bounty programs
+
+- [XBOX Bounty Program](https://www.microsoft.com/en-us/msrc/bounty-xbox)
+
+
 
 ## Contribute
 
