@@ -22,7 +22,7 @@ Bug Bounty and crowdsourced security platforms.
 Bug Bounty programs directly offered by companies.
 
 - [XBOX Bounty Program](https://www.microsoft.com/en-us/msrc/bounty-xbox)
-
+- [Apple Security Bounty](https://developer.apple.com/security-bounty/)
 
 
 ## Contribute
