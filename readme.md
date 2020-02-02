@@ -19,6 +19,8 @@ Bug Bounty and crowdsourced security platforms.
 
 ## Individual Bug Bounty programs
 
+Bug Bounty programs directly offered by companies.
+
 - [XBOX Bounty Program](https://www.microsoft.com/en-us/msrc/bounty-xbox)
 
 
