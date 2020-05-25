@@ -20,6 +20,7 @@ Bug Bounty and crowdsourced security platforms.
 - [YesWeHack](https://www.yeswehack.com)
 - [Cobalt](https://cobalt.io)
 - [HackenProof](https://hackenproof.com)
+- [Vulnerability-Lab](https://www.vulnerability-lab.com)
 
 ## Individual Bug Bounty programs
 
