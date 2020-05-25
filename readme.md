@@ -21,6 +21,9 @@ Bug Bounty and crowdsourced security platforms.
 - [Cobalt](https://cobalt.io)
 - [HackenProof](https://hackenproof.com)
 - [Vulnerability-Lab](https://www.vulnerability-lab.com)
+- [FireBounty](https://firebounty.com)
+- [AntiHACK](https://www.antihack.me)
+- [SafeHats](https://safehats.com)
 
 ## Individual Bug Bounty programs
 
@@ -28,6 +31,7 @@ Bug Bounty programs directly offered by companies.
 
 - [XBOX Bounty Program](https://www.microsoft.com/en-us/msrc/bounty-xbox)
 - [Apple Security Bounty](https://developer.apple.com/security-bounty/)
+- [BitGo](https://www.bitgo.com/bug-bounty)
 
 
 ## Contribute
