@@ -18,6 +18,7 @@ Bug Bounty and crowdsourced security platforms.
 - [OpenBugBounty](https://www.openbugbounty.org)
 - [Synack](https://www.synack.com/red-team/)
 - [YesWeHack](https://www.yeswehack.com)
+- [Cobalt](https://cobalt.io)
 
 ## Individual Bug Bounty programs
 
