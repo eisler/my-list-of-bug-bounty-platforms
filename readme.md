@@ -16,6 +16,7 @@ Bug Bounty and crowdsourced security platforms.
 - [HackerOne](https://www.hackerone.com)
 - [Bugcrowd](https://www.bugcrowd.com)
 - [OpenBugBounty](https://www.openbugbounty.org)
+- [Synack](https://www.synack.com/red-team/)
 
 ## Individual Bug Bounty programs
 
